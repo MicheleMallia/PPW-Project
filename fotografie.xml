@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<album>
+	<foto genere="Soggetti/Folla">
+		<numero>1</numero>
+	    <thumb>fotografie/little1.jpg</thumb>
+        <grande>fotografie/immagine1.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>2</numero>
+	    <thumb>fotografie/little2.jpg</thumb>
+        <grande>fotografie/immagine2.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>3</numero>
+	    <thumb>fotografie/little3.jpg</thumb>
+        <grande>fotografie/immagine3.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>4</numero>
+	    <thumb>fotografie/little4.jpg</thumb>
+        <grande>fotografie/immagine4.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>5</numero>
+	    <thumb>fotografie/little5.jpg</thumb>
+        <grande>fotografie/immagine5.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>6</numero>
+	    <thumb>fotografie/little6.jpg</thumb>
+        <grande>fotografie/immagine6.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>7</numero>
+	    <thumb>fotografie/little7.jpg</thumb>
+        <grande>fotografie/immagine7.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>8</numero>
+	    <thumb>fotografie/little8.jpg</thumb>
+        <grande>fotografie/immagine8.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>9</numero>
+	    <thumb>fotografie/little9.jpg</thumb>
+        <grande>fotografie/immagine9.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>10</numero>
+	    <thumb>fotografie/little10.jpg</thumb>
+        <grande>fotografie/immagine10.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>11</numero>
+	    <thumb>fotografie/little11.jpg</thumb>
+        <grande>fotografie/immagine11.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>12</numero>
+	    <thumb>fotografie/little12.jpg</thumb>
+        <grande>fotografie/immagine12.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>13</numero>
+	    <thumb>fotografie/little13.jpg</thumb>
+        <grande>fotografie/immagine13.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>14</numero>
+	    <thumb>fotografie/little14.jpg</thumb>
+        <grande>fotografie/immagine14.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>15</numero>
+	    <thumb>fotografie/little15.jpg</thumb>
+        <grande>fotografie/immagine15.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>16</numero>
+	    <thumb>fotografie/little16.jpg</thumb>
+        <grande>fotografie/immagine16.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>17</numero>
+	    <thumb>fotografie/little17.jpg</thumb>
+        <grande>fotografie/immagine17.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>18</numero>
+	    <thumb>fotografie/little18.jpg</thumb>
+        <grande>fotografie/immagine18.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>19</numero>
+	    <thumb>fotografie/little19.jpg</thumb>
+        <grande>fotografie/immagine19.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>20</numero>
+	    <thumb>fotografie/little20.jpg</thumb>
+        <grande>fotografie/immagine20.jpg</grande>
+        <eta>odierne</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>21</numero>
+	    <thumb>fotografie/littlepoca1.jpg</thumb>
+        <grande>fotografie/epoca1.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>22</numero>
+	    <thumb>fotografie/littlepoca2.jpg</thumb>
+        <grande>fotografie/epoca2.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>23</numero>
+	    <thumb>fotografie/littlepoca3.jpg</thumb>
+        <grande>fotografie/epoca3.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>24</numero>
+	    <thumb>fotografie/littlepoca4.jpg</thumb>
+        <grande>fotografie/epoca4.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>25</numero>
+	    <thumb>fotografie/littlepoca5.jpg</thumb>
+        <grande>fotografie/epoca5.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>26</numero>
+	    <thumb>fotografie/littlepoca6.jpg</thumb>
+        <grande>fotografie/epoca6.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>27</numero>
+	    <thumb>fotografie/littlepoca7.jpg</thumb>
+        <grande>fotografie/epoca7.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>28</numero>
+	    <thumb>fotografie/littlepoca8.jpg</thumb>
+        <grande>fotografie/epoca8.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>29</numero>
+	    <thumb>fotografie/littlepoca9.jpg</thumb>
+        <grande>fotografie/epoca9.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>30</numero>
+	    <thumb>fotografie/littlepoca10.jpg</thumb>
+        <grande>fotografie/epoca10.jpg</grande>
+        <eta>storiche</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>31</numero>
+	    <thumb>fotografie/littlepoca11.jpg</thumb>
+        <grande>fotografie/epoca11.jpg</grande>
+        <eta>storiche</eta>
+        <colore>monocromatiche</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>32</numero>
+	    <thumb>fotografie/littlepoca12.jpg</thumb>
+        <grande>fotografie/epoca12.jpg</grande>
+        <eta>storiche</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>33</numero>
+	    <thumb>fotografie/littlepoca13.jpg</thumb>
+        <grande>fotografie/epoca13.jpg</grande>
+        <eta>storiche</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>34</numero>
+	    <thumb>fotografie/littlecolor1.jpg</thumb>
+        <grande>fotografie/color1.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>35</numero>
+	    <thumb>fotografie/littlecolor2.jpg</thumb>
+        <grande>fotografie/color2.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>36</numero>
+	    <thumb>fotografie/littlecolor3.jpg</thumb>
+        <grande>fotografie/color3.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>37</numero>
+	    <thumb>fotografie/littlecolor4.jpg</thumb>
+        <grande>fotografie/color4.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>38</numero>
+	    <thumb>fotografie/littlecolor5.jpg</thumb>
+        <grande>fotografie/color5.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>39</numero>
+	    <thumb>fotografie/littlecolor6.jpg</thumb>
+        <grande>fotografie/color6.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>40</numero>
+	    <thumb>fotografie/littlecolor7.jpg</thumb>
+        <grande>fotografie/color7.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>41</numero>
+	    <thumb>fotografie/littlecolor8.jpg</thumb>
+        <grande>fotografie/color8.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>42</numero>
+	    <thumb>fotografie/littlecolor9.jpg</thumb>
+        <grande>fotografie/color9.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>43</numero>
+	    <thumb>fotografie/littlecolor10.jpg</thumb>
+        <grande>fotografie/color10.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>44</numero>
+	    <thumb>fotografie/littlecolor11.jpg</thumb>
+        <grande>fotografie/color11.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>45</numero>
+	    <thumb>fotografie/littlecolor12.jpg</thumb>
+        <grande>fotografie/color12.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>46</numero>
+	    <thumb>fotografie/littlecolor13.jpg</thumb>
+        <grande>fotografie/color13.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>47</numero>
+	    <thumb>fotografie/littlecolor14.jpg</thumb>
+        <grande>fotografie/color14.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>48</numero>
+	    <thumb>fotografie/littlecolor15.jpg</thumb>
+        <grande>fotografie/color15.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>49</numero>
+	    <thumb>fotografie/littlecolor16.jpg</thumb>
+        <grande>fotografie/color16.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>50</numero>
+	    <thumb>fotografie/littlecolor17.jpg</thumb>
+        <grande>fotografie/color17.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>51</numero>
+	    <thumb>fotografie/littlecolor18.jpg</thumb>
+        <grande>fotografie/color18.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>52</numero>
+	    <thumb>fotografie/littlecolor19.jpg</thumb>
+        <grande>fotografie/color19.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Soggetti/Folla">
+		<numero>53</numero>
+	    <thumb>fotografie/littlecolor20.jpg</thumb>
+        <grande>fotografie/color20.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>54</numero>
+	    <thumb>fotografie/littlecolor21.jpg</thumb>
+        <grande>fotografie/color21.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+	<foto genere="Chiesa/Statua">
+		<numero>55</numero>
+	    <thumb>fotografie/littlecolor22.jpg</thumb>
+        <grande>fotografie/color22.jpg</grande>
+        <eta>odierne</eta>
+        <colore>a colori</colore>
+	</foto>
+</album>
+
+
