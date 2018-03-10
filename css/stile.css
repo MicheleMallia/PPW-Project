@@ -1,0 +1,233 @@
+body {
+    font-family: "Book Antiqua","arial","helvetica",serif;
+    background-image:url('../images/background.png');
+}
+
+   
+#titolologo {
+    width: 644px;
+    background-image: url("../images/logo.jpg");
+    background-position: right;
+    padding: 70px;
+    border: 1px dotted white;
+}
+
+
+#titolologo h1{
+    font-family: "Courier","arial","helvetica",serif;
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align:right;
+    margin-right: -29px;
+}
+   
+#titolologo p{
+    font-family: "Courier","arial","helvetica",serif;
+    font-size: 23px;
+    color: #FFFFFF;
+    text-align:right;
+    margin-right: 20px;
+}
+
+#zoom{
+    text-align:left;
+}
+
+#barra{
+    height: 50px;
+    margin: 0px;
+    padding: 1px;
+}
+   
+.sezione{
+    background-color: #F7F7F7;
+    border: 1px solid white;
+    width: 155px;
+    height: 50px;
+    float: left;
+}
+
+.sezione a{
+    color: black;
+    text-align:center;
+    width:150px;
+    line-height: 50px;
+    text-decoration: underline;
+    font-size: 23px;
+    display: block;   
+}
+
+
+#contenitore {
+    width: 790px;
+    margin: 20px auto;
+    text-align:left;
+}
+
+#contenitore h2{
+    font-variant: small-caps;
+    text-align: center;
+    color: red;
+}
+
+#contenuto{
+    font-size: 20px;
+    color: #1C1C1C;
+}
+
+#redirect p{
+    text-align:center;
+    color: black;
+    font-weight: bold;
+}
+
+#redirect a{
+    text-decoration: none;
+    color: #1C1C1C;
+}
+
+#howto h1{
+    font-size: 42px;
+    color: blue;
+    font-style: italic;
+}
+
+#fonte {
+   font-size: 15px;
+}
+
+#coro{
+    font-style: italic;
+}
+
+div.uscita img{
+    margin-left: 90px;
+}
+
+div.uscita p{
+    text-align: center   ;
+    font-style: italic;
+    font-size: 17px;
+    margin-top: 1px;
+}
+
+div.portatore{
+    float:left;
+    margin-right: 27px;
+}
+
+div.portatore p{
+    text-align: right;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 1px;
+}
+
+div.scampanellio{
+    float:right;
+    margin-left: 27px;
+}
+
+div.scampanellio p{
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 1px;
+}
+
+
+.vita{
+    float:right;
+    margin: 10px;
+}
+   
+div.grotta{
+    float:left;
+    margin-right: 23px;
+}
+
+div.grotta p {
+    text-align: left;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+#fondo {
+    height: auto;
+    border-top: 1px solid black;
+}
+
+#realizzato{
+    font-style: italic;
+    margin-top: 13px;
+    margin-left: 255px;
+}
+
+.valid1, .valid2{
+    float:left;
+    margin-top:5px;
+}
+
+#form{
+    float:right;
+    margin-right: 23px;
+    margin: -12px auto;    
+    clear: both;
+}
+
+#reimposta{
+    margin-left: 700px;
+}
+
+
+.stampa{
+    float:right;
+    margin-top: -43px;
+    margin-right: 23px;   
+}
+
+#in{
+    font-style: normal;
+    font-size: 26px;
+    text-decoration: none;
+    font-family: "Arial Rounded MT Bold","arial","helvetica",serif;
+    color:#1C1C1C;
+    margin-left: 20px;
+}
+
+#out{
+    font-style: normal;
+    font-size:18px;
+    text-decoration: none;
+    font-family: "Arial Rounded MT Bold","arial","helvetica",serif;
+    color:#1C1C1C;
+}
+    
+#thumbs {
+    height: 200px;
+}
+
+#bigimage{
+    margin:50px auto;
+    clear: both;
+}
+
+#placeholder{
+    margin-left: 135px;
+	width: 500px;
+}
+
+
+#thumbs a:link, #thumbs a:visited {
+    width: 53px;
+    height: 53px;
+	border: 6px solid #555;
+	margin: 6px;
+    float:left;
+}
+
+#thumbs a:hover {
+	border: 6px solid #888;
+}
+
